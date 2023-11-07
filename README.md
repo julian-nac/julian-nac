@@ -1,4 +1,6 @@
-¡Saludos! Soy Julian David Narvaez, un entusiasta del desarrollo Full Stack de 19 años, formado en Henry, donde adquirí habilidades integrales para adentrarme en este emocionante campo.
+## ¡Saludos!
+
+Soy Julian David Narvaez, un entusiasta del desarrollo Full Stack de 19 años, formado en Henry, donde adquirí habilidades integrales para adentrarme en este emocionante campo.
 
 Mi fascinación por la programación y el diseño web me ha llevado a buscar un espacio como Desarrollador Full Stack en el mundo laboral. Destaco por mi profundo entendimiento de los lenguajes de programación tanto en el front-end como el diseño con CSS y librerias externas.
 
@@ -21,12 +23,12 @@ Destaco en las tecnologías y habilidades técnicas de:
 
 |  |  |
 | ---------- | ------ |
-| HTML       | <img src="img/html.png" alt="HTML" width="50" height="50"> |
-| CSS        | <img src="img/css.png" alt="CSS" width="50" height="50"> |
-| JavaScript | <img src="img/js.png" alt="JavaScript" width="50" height="50"> |
-| Node       | <img src="img/node.png" alt="Node" width="50" height="50"> |
-| React      | <img src="img/react.png" alt="React" width="50" height="50">|
-| Redux      | <img src="img/redux.png" alt="Redux" width="50" height="50">|
+| HTML       |
+| CSS        | 
+| JavaScript | 
+| Node       |
+| React      |
+| Redux      |
 
 
 ## Proyectos Destacados:
@@ -44,12 +46,6 @@ Destaco en las tecnologías y habilidades técnicas de:
 #### Enlace al Código:
 Para ver el código fuente de este proyecto, visita [este enlace](https://github.com/julian-nac/Proyecto-Individual).
 
-#### Fotos del Proyecto:
-<img src="img/PI1.png" alt="HTML" width="550" height="250"><br><br>
-
-<img src="img/PI2.png" alt="HTML" width="550" height="250"><br><br>
-
-<img src="img/PI3.png" alt="HTML" width="550" height="250"><br><br>
 
 ### Caro Mio Pizza
 
@@ -67,15 +63,6 @@ Este proyecto de eCommerce se enfoca en la venta de pizzas, abarcando desde la e
 
 #### URL del Proyecto:
 Para acceder al proyecto, visita [este enlace](https://pfcaromio.vercel.app/).
-
-#### Fotos del Proyecto:
-<img src="img/Ecommerce.png" alt="HTML" width="550" height="250"><br><br>
-
-<img src="img/Ecommerce1.png" alt="HTML" width="550" height="250"><br><br>
-
-<img src="img/Ecommerce2.png" alt="HTML" width="550" height="250"><br><br>
-
-<img src="img/Ecommerce3.png" alt="HTML" width="550" height="250"><br><br>
 
 ## Educación:
 
